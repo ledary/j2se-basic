@@ -6,4 +6,10 @@ package com.netty.in;
  * @date 2018/6/7
  **/
 public class TestNetty {
+
+    public static void main(String[] args) {
+
+    }
+
+
 }
