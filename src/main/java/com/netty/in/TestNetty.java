@@ -7,9 +7,4 @@ package com.netty.in;
  **/
 public class TestNetty {
 
-    public static void main(String[] args) {
-
-    }
-
-
 }
