@@ -28,6 +28,21 @@
         <version>3.4.9</version>
     </dependency>
 
+
+    <!--rabbitMQ客户端-->
+    <dependency>
+        <groupId>com.rabbitmq</groupId>
+        <artifactId>amqp-client</artifactId>
+        <version>5.2.0</version>
+    </dependency>
+
+    <!-- 字符串 ，对象，json，数组，集合工具包 -->
+    <dependency>
+        <groupId>org.apache.commons</groupId>
+        <artifactId>commons-lang3</artifactId>
+        <version>3.7</version>
+    </dependency>
+
 </dependencies>
 
     <build>
